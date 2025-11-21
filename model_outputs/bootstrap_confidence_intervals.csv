@@ -1,0 +1,5 @@
+tier,target_probability,median_downloads,ci_lower,ci_upper
+1-10,0.7,,,
+11-20,0.7,,,
+21-30,0.7,,,
+30+,0.7,50.0,50.0,50.0
